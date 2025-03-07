@@ -1,3 +1,3 @@
-# studyjam_1
+# Praktikum 2
 
 A new Flutter project.
